@@ -3,3 +3,5 @@ Code for Prostate Cancer Screening Enhanced: Multi-Class Semantic Segmentation a
 
 Python 3.9.16
 TensorFlow 2.11.0
+
+Dataset is avaiable at DOI: [10.21227/jy12-2c41](https://dx.doi.org/10.21227/jy12-2c41)
