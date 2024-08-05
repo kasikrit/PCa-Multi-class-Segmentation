@@ -1,5 +1,5 @@
 # PCa-Multi-class-Segmentation
-Code for Enhancing Prostate Cancer Detection and Grading with the DARUN Model for Multi-class Semantic Segmentation
+Detection and Score Grading for Prostate Adenocarcinoma using Semantic Segmentation
 
 Software: Python 3.9.16 and TensorFlow 2.11.0
 
