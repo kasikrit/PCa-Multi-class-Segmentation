@@ -11,4 +11,4 @@ Prostate cancer is a major global health challenge. In this study, we present an
 Keywords:
 Adenocarcinoma segmentation; Gleason grading; Gleason patterns; multi-class segmentation; prostate cancer; semantic segmentation; whole-slide image.
 
-[Supplementary Material](https://github.com/kasikrit/PCa-Multi-class-Segmentation/blob/main/Supplementary-Material-v5.pdf)
+[Supplementary Material](https://github.com/kasikrit/PCa-Multi-class-Segmentation/blob/main/Supplementary-Material-PLOS-One.pdf)
