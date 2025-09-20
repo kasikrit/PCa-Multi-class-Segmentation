@@ -1,5 +1,7 @@
 # PCa-Multi-class-Segmentation
-**Manuscript title:** Detection and score grading for prostate adenocarcinoma using semantic segmentation
+**Paper:** Detection and score grading for prostate adenocarcinoma using semantic segmentation
+
+**Citation:** Damkliang K, Thongsuksai P, Wongsirichot T, Kayasut K (2025) Detection and score grading for prostate adenocarcinoma using semantic segmentation. PLoS One 20(9): e0331613. https://doi.org/10.1371/journal.pone.0331613
 
 **Software:** Python 3.9.16 and TensorFlow 2.11.0
 
@@ -12,4 +14,6 @@ Prostate cancer is a major global health challenge. In this study, we present an
 **Keywords:**
 
 Adenocarcinoma segmentation; Gleason grading; Gleason patterns; multi-class segmentation; prostate cancer; semantic segmentation; whole-slide image.
+
+**Another paper of binary segmenation paper**: Damkliang K, Thongsuksai P, Kayasut K, Wongsirichot T, Jitsuwan C, Boonpipat T. 2023. Binary semantic segmentation for detection of prostate adenocarcinoma using an ensemble with attention and residual U-Net architectures. PeerJ Computer Science 9:e1767 https://doi.org/10.7717/peerj-cs.1767
 
